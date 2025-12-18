@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jesus Martinez.
 -  I’m working towards becoming a software developer.
--  I’m enrolled in Software Engineering school and learning full stack web
-   development through a bootcamp.
+-  I’m enrolled in Software Engineering school.
 -  How to reach me: Here on GitHub or linkedin/in/jesusmswe
   
 Technical Skills: HTML ● CSS ● Python ● JavaScript ● Git/GitHub
