@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jesus Martinez.
--  I’m working towards becoming a software developer.
--  I’m enrolled in Software Engineering school.
+-  I’m working towards becoming a software engineer.
+-  I’m enrolled in Software Engineering school, senior year.
 -  How to reach me: Here on GitHub or linkedin/in/jesusmswe
   
-Technical Skills: HTML ● CSS ● Python ● JavaScript ● Git/GitHub
+Technical Skills: HTML ● CSS ● Python ● JavaScript ● Git/GitHub ● PostgreSQL ● Node.js ● Vercel 
 
 Soft Skills: Time Management ● Communication ● Teamwork ● Adaptable ● Problem-solving ● Analytical
 
